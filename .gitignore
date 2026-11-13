@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Большие исходные данные
+data/raw/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
